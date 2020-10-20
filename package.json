@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "chalk": "^1.0.0",
-    "wiredep": "^2.2.0",
-    "yeoman-generator": "^0.16.0",
+    "wiredep": "^3.0.1",
+    "yeoman-generator": "^0.21.0",
     "yosay": "^1.0.2"
   },
   "peerDependencies": {
